@@ -25,7 +25,7 @@ There are currently 3 supported profiles:
 **THESE FILES SHOULD _NEVER_ BE COMMITTED TO THE GITHUB REPOSITORY!**
 
 To set up your local development environment:
-- Copy `application-example.properties` to a new file named `application-dev.properties`
+- Copy `application-example.properties` to a new file named `application-local.properties`
 - Modify the following settings to the correct value (they are uppercase in the file, but should
    follow appropriate casing when replaced):
   - **spring.datasource.url**
